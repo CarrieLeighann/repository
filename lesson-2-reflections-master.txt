@@ -19,14 +19,13 @@ in the past tense.
 git diff with no arguments will show the differences between the files in the 
 working directory and the files in the staging area.
 
-<<<<<<< HEAD
+
 some more changes
 
 changes for master
-=======
+
 git reset --hard will remove any changes to the files since the last commit
 
 some more changes
 
 this is some changes that i want to have in the branch
->>>>>>> new-notes
