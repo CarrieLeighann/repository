@@ -22,3 +22,5 @@ working directory and the files in the staging area.
 git reset --hard will remove any changes to the files since the last commit
 
 some more changes
+
+this is some changes that i want to have in the branch
