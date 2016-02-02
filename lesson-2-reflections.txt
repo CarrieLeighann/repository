@@ -1,0 +1,13 @@
+Initialising a repository.
+
+Create a directory by using mkdir directory name
+
+Make it a git repository by initialising the git files using the 
+command git init
+
+There are no commits created automatically and the git log will 
+be empty
+
+By using the command git add you can add files to the staging area,
+which is an intermediate between uncommitted files and fully committed files
+where you can determine exactly what changes you wish to commit
