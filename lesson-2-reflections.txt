@@ -20,3 +20,5 @@ git diff with no arguments will show the differences between the files in the
 working directory and the files in the staging area.
 
 git reset --hard will remove any changes to the files since the last commit
+
+some more changes
