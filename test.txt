@@ -1,6 +1,0 @@
-This is just a test doc
-<<<<<<< HEAD
-
-im going to add some more info
-=======
->>>>>>> master
