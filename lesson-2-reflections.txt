@@ -11,3 +11,12 @@ be empty
 By using the command git add you can add files to the staging area,
 which is an intermediate between uncommitted files and fully committed files
 where you can determine exactly what changes you wish to commit
+
+When writing your commit message, it is standard practice to make the message 
+sound like a command rather in the present tense rather than a statement
+in the past tense.
+
+git diff with no arguments will show the differences between the files in the 
+working directory and the files in the staging area.
+
+some more changes
