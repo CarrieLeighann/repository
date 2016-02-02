@@ -20,3 +20,5 @@ git diff with no arguments will show the differences between the files in the
 working directory and the files in the staging area.
 
 some more changes
+
+changes for master
